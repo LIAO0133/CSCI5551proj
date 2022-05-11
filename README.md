@@ -1,12 +1,17 @@
 # CSCI5551proj
+
 Group Number: 12
+
 Group topic: Autonomous Landing of a UAV
+
 Member: Junsen Liao,
 	Zhouyang Gao,
 	Fengyun Shi
 
 The operative system we used is ubuntu 20.04.4 LTS(Focal Fossa) with ROS Melodic and Gazebo.
+
 We created a Oracle VM virtualBOx to set up the ubuntu 20.04.4 LTS.
+
 To create the basic environment for UAV, we need several steps before the simulation.
 
 
